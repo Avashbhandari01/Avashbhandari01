@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Nepal</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avashbhandari01&label=Profile%20views&color=0e75b6&style=flat" alt="avashbhandari01" /> </p>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 - 🔭 I’m currently working on **Fonkka**
 
