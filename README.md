@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avashbhandari01&label=Profile%20views&color=0e75b6&style=flat" alt="avashbhandari01" /> </p>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-- 🔭 I’m currently working on **Booking App**
+- 🔭 I’m currently working on **Medicare Booking**
 
 - 🌱 I’m currently learning **ReactJs, TypeScript and MERN**
 
